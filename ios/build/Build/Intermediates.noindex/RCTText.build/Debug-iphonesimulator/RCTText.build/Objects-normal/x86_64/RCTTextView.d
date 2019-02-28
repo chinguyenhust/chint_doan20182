@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/daisy/chint_doan20182/DoAn/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/daisy/chint_doan20182/DoAn/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/daisy/chint_doan20182/DoAn/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/daisy/chint_doan20182/DoAn/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/daisy/chint_doan20182/DoAn/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/daisy/chint_doan20182/DoAn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/daisy/chint_doan20182/DoAn/node_modules/react-native/Libraries/Text/RCTTextTransform.h

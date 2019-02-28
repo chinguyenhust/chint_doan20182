@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>BB1D3316-2F59-4870-9F4B-B441EFB7433F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BB1D3316-2F59-4870-9F4B-B441EFB7433F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>DoAn project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DoAn</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project DoAn with scheme DoAn and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>572888146.88690603</real>
+			<key>timeStoppedRecording</key>
+			<real>572888149.03157902</real>
+			<key>title</key>
+			<string>Building project DoAn with scheme DoAn and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>BB1D3316-2F59-4870-9F4B-B441EFB7433F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
